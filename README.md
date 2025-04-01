@@ -1,4 +1,4 @@
-# reconify
+# Reconify
 Automate your recon game.
 
 🛠️ reconify – Automated Nmap Recon Tool
